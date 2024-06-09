@@ -25,6 +25,7 @@ Welcome to my projects collection! This repository contains a diverse set of pro
 - **Technologies Used:** C, file management, data structures, I/O handling
 
 ## Author
-- [Your Name](https://github.com/haf0g)
+- [GARHOUM Hafid](https://github.com/haf0g)
+
 
 Feel free to explore each project and check out the detailed README files for more information on installation and usage.
