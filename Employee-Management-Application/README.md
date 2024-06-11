@@ -1,22 +1,22 @@
-# Application de Gestion des Employés
+# Employee Management Application
 
-## Fonctionnalités Principales
-- Ajout d'employés
-- Mise à jour des informations des employés
-- Recherche d'employés
-- Suppression des employés
+## Main Features
+- Adding employees
+- Updating employee information
+- Employee search
+- Employee deletion
 
-## Technologies Utilisées
+## Technologies Used
 - Java
 - JavaFX
 - MySQL
 - Hibernate
 
-## Installation et Utilisation
-1. Cloner le repository.
-2. Configurer la base de données MySQL et importer le script SQL fourni.
-3. Configurer les paramètres de connexion à la base de données dans le fichier de configuration.
-4. Compiler et exécuter l'application Java.
+## Installation and Usage
+1. Clone the repository.
+2. Configure the MySQL database and import the provided SQL script.
+3. Configure the database connection settings in the configuration file.
+4. Compile and run the Java application.
 
-## Auteur
+## Author
 - [GARHOUM Hafid](https://github.com/haf0g)
