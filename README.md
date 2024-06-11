@@ -9,7 +9,7 @@ Welcome to my projects collection! This repository contains a diverse set of pro
 - **Description:** A comprehensive application for managing employee information, including functionalities for adding, updating, searching, and deleting employee records.
 - **Technologies Used:** Java, JavaFX, MySQL, Hibernate
 
-### [Keyword and Face Detection in Newspapers](./KeywordFaceDetection/README.md)
+### [Keyword and Face Detection in Newspapers](./Keyword-Face-Detection/README.md)
 - **Language:** Python
 - **Description:** An application for searching keywords in newspapers and displaying associated faces, using OpenCV for face detection and Tesseract for optical character recognition (OCR).
 - **Technologies Used:** Python, OpenCV, Tesseract OCR, Pillow (PIL)
