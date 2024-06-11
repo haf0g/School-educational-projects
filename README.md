@@ -4,7 +4,7 @@ Welcome to my projects collection! This repository contains a diverse set of pro
 
 ## Projects
 
-### [Employee Management Application](./EmployeeManagementApp/README.md)
+### [Employee Management Application](./Employee-Management-Application/README.md)
 - **Language:** Java
 - **Description:** A comprehensive application for managing employee information, including functionalities for adding, updating, searching, and deleting employee records.
 - **Technologies Used:** Java, JavaFX, MySQL, Hibernate
