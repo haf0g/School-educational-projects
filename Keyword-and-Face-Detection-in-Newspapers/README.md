@@ -37,8 +37,6 @@ The project processes a ZIP file containing images of newspaper pages. It uses P
 ## Project Structure
 
 - `keyword_face_detection.py`: Python script for keyword and face detection.
-- `positive_words.txt`: List of positive words for sentiment analysis.
-- `negative_words.txt`: List of negative words for sentiment analysis.
 - `haarcascade_frontalface_default.xml`: XML file for face detection cascade.
 - `consolas_font.ttf`: Font file for text display.
 - `small_img.zip`: Small ZIP file containing newspaper images for testing.
