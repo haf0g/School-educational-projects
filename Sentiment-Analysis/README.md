@@ -22,7 +22,7 @@ The sentiment analysis algorithm analyzes the number of positive and negative wo
 ## Usage
 
 1. Make sure you have Python installed on your system.
-2. Clone this repository: git clone https://github.com/haf0g/sentiment-analysis.git
+2. Clone this repository: git clone [https://github.com/haf0g/my-projects-collection-/tree/main/Sentiment-Analysis](https://github.com/haf0g/my-projects-collection-/tree/main/Sentiment-Analysis)
 3. Navigate to the project directory: cd sentiment-analysis
 4. Run the sentiment analysis script: python sentiment_analysis.py
 5. View the resulting_data.csv file for sentiment analysis results.
