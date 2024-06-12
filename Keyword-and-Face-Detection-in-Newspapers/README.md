@@ -21,14 +21,6 @@ The project processes a ZIP file containing images of newspaper pages. It uses P
 - PIL (Python Imaging Library)
 - ZIP file processing
 
-## Usage
-
-1. Make sure you have Python installed on your system.
-2. Download or clone this repository.
-3. Place the ZIP file containing newspaper images in the same directory as the script.
-4. Update the script with the correct path to the Tesseract executable if necessary.
-5. Run the script: python keyword_face_detection.py
-
 ## Example Output
 
 - The script processes a small ZIP file for the keyword "Christopher" and displays the resulting image with faces.
