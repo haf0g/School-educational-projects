@@ -29,7 +29,7 @@ The sentiment analysis algorithm analyzes the number of positive and negative wo
 
 ## Project Structure
 
-- `sentiment_analysis.py`: Python script for sentiment analysis.
+- `Sentiment_analysis_assessment_H.GARHOUM.py`: Python script for sentiment analysis.
 - `project_twitter_data.csv`: CSV file containing Twitter data.
 - `positive_words.txt`: List of positive words for sentiment analysis.
 - `negative_words.txt`: List of negative words for sentiment analysis.
