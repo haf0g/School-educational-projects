@@ -1,6 +1,7 @@
 # My Projects Collection
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
+<br>
 Welcome to my projects collection! This repository contains a diverse set of projects that I have developed, showcasing various skills and technologies. Below, you'll find descriptions of each project, including key functionalities and the technologies used.
 
 ## Projects
