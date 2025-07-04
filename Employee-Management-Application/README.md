@@ -26,13 +26,13 @@ A desktop application to manage employee records using a clean JavaFX UI and MyS
 
 ## 🖼️ Screenshots
 
-| Login Page | Add Employee | List of Employees |
-|------------|--------------|-------------------|
-| ![](./screenshots/Capture%20d'écran%202024-06-22%20140441.png) | ![](./screenshots/Capture%20d'écran%202024-06-22%20140808.png) | ![](./screenshots/Capture%20d'écran%202024-06-22%20140643.png) |
+| Login Page | Add Employee |
+|------------|--------------|
+| ![](./screenshots/Capture%20d'écran%202024-06-22%20140441.png) | ![](./screenshots/Capture%20d'écran%202024-06-22%20140808.png) |
 
-| Search Employee |
-|-----------------|
-| ![](./screenshots/Capture%20d'écran%202024-06-22%20140822.png) |
+| Search Employee | List of Employees |
+|-----------------|-------------------|
+| ![](./screenshots/Capture%20d'écran%202024-06-22%20140822.png) | ![](./screenshots/Capture%20d'écran%202024-06-22%20140643.png) |
 
 ---
 
