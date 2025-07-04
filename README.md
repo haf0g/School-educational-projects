@@ -26,7 +26,7 @@ Welcome to my projects collection! This repository contains a diverse set of pro
 - **Description:** Deployment and configuration of a MySQL database instance on an OpenStack platform, including installation, configuration, and security setup.
 - **Technologies Used:** OpenStack, MySQL, Linux (Debian), SSH, firewall, Bash scripts
 
-### [Bank Account Management Application](./BankAccountManagement/README.md)
+### [Bank Account Management Application](./bank-management-system-in-c/readme.md)
 - **Language:** C
 - **Description:** An application for managing bank accounts, including account creation, modification, deletion, and handling transactions.
 - **Technologies Used:** C, file management, data structures, I/O handling
