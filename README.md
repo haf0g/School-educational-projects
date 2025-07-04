@@ -1,4 +1,4 @@
-# 1st year CS engineering educational projects in java,python and C
+# First year CS engineering educational projects in java,python, C and Linux System Administartion (Openstack)
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
 <br>
@@ -21,7 +21,7 @@ Welcome to my projects collection! This repository contains a diverse set of pro
 - **Description:** This project performs sentiment analysis on Twitter data to determine the emotional tone conveyed in tweets. It analyzes the number of positive and negative words in each tweet and calculates a net sentiment score. The sentiment score is based on the number of positive and negative words found in the tweet.
 - **Technologies Used:** Python, CSV data processing, sentiment analysis, file handling.
 
-### [Cloud Database Instance Creation and Configuration](./CloudDatabaseInstance/README.md)
+### [Cloud Database Instance Creation and Configuration](./openstack-private-cloud-conf/README.md)
 - **Technologies:** OpenStack, MySQL, Linux (Debian)
 - **Description:** Deployment and configuration of a MySQL database instance on an OpenStack platform, including installation, configuration, and security setup.
 - **Technologies Used:** OpenStack, MySQL, Linux (Debian), SSH, firewall, Bash scripts
