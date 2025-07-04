@@ -1,4 +1,4 @@
-# Some of my practical exercices at my 1st year of computer science engineering
+# 1st year CS engineering educational projects in java and python
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
 <br>
