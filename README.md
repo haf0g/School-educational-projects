@@ -1,4 +1,4 @@
-# My Projects Collection
+# Some of my practical exercices at my 1st year of computer science engineering
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
 <br>
