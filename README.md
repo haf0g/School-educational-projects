@@ -1,4 +1,4 @@
-# 1st year CS engineering educational projects in java and python
+# 1st year CS engineering educational projects in java,python and C
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
 <br>
