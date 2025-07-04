@@ -40,7 +40,7 @@ A desktop application to manage employee records using a clean JavaFX UI and MyS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-app.git
+   git clone git@github.com:haf0g/ENSA-1styear-Academic-Projects.git
    ```
 2. Set up your MySQL database using the provided SQL script.
 3. Configure database connection settings in the `hibernate.cfg.xml` file.
