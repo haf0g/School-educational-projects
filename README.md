@@ -1,4 +1,4 @@
-# First year CS engineering educational projects in java,python, C and Linux System Administartion (Openstack)
+# First year CS engineering educational projects in java,python, C and Linux System Administration (Openstack)
 
 (I'm still working on this repo. Unfortunately, I haven't found time yet to complet work on it)
 <br>
