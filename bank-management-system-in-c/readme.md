@@ -25,11 +25,11 @@ Ce projet consiste en une application de gestion de comptes bancaires développ�
 ## Comment Utiliser
 1. **Compilation** :
    ```bash
-   gcc gestion_comptes.c -o gestion_comptes
+   gcc ./src/standalone-bank-management-system.c -o standalone-bank-management-system
    ```
 2. **Exécution** :
    ```bash
-   ./gestion_comptes
+   ./src/standalone-bank-management-system.c
    ```
 
 3. **Navigation** :
@@ -53,9 +53,7 @@ Entrer votre choix : 1
 - `record.dat` : Fichier binaire pour stocker les données des comptes.
 
 ## Auteur
-GARHOUM Hafid  
-Encadré par : Mr. Adil HADDI  
-API 2 | Section 2 | Groupe 3  
+GARHOUM Hafid
 Année Universitaire : 2022-2023
 
 ## Licence
