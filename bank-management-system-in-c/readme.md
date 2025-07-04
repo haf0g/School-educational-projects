@@ -49,7 +49,7 @@ Entrer votre choix : 1
 ```
 
 ## Fichiers Inclus
-- `gestion_comptes.c` : Code source du projet.
+- `standalone-bank-management-system.c` : Code source du projet.
 - `record.dat` : Fichier binaire pour stocker les données des comptes.
 
 ## Auteur
