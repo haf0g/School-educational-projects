@@ -12,13 +12,6 @@ import javafx.scene.Scene;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-
-/**
- *
- * @author MarcoMan
- * Subscribe our Channel --> https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- * Thanks for the support guys! <3
- */
 public class EmployeeManagementSystem extends Application {
     
     private double x = 0;
