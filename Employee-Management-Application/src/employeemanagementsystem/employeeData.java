@@ -6,13 +6,6 @@
 package employeemanagementsystem;
 
 import java.sql.Date;
-
-/**
- *
- * @author MarcoMan
- * Subscribe our Channel --> https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- * Thanks for the support guys! <3
- */
 public class employeeData {
     
     private Integer employeeId;
